@@ -1,3 +1,9 @@
-body  {
-  background-image: https://lh3.googleusercontent.com/proxy/xMobQ6U25b0J5ViuV2yNVi9ECLSobFhMGDMHV7ER_E8vRZh4BtswBgNWGJbIkJusYbllI_IIYVcrNDUOP9QykImMpwhDJ1wRxBHdU8Tqtg;
+.body {
+  background: #aebead url(assets\pexels-pixabay-220182.jpg) repeat;
+}
+
+section {
+  float: left;
+  margin-left: 100px;
+  margin-top: 100px;
 }
