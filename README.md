@@ -16,7 +16,7 @@ This is the main page of my site. It uses a bootstrap layout including navbar, c
 
 ### Portfolio
 
-This pages purpose is to display my portfolio of projects. It is currently filled with cute placeholder images. It uses the card and flexbox features of bootstrap extensively to acheive its responsive display.
+This pages purpose is to display my portfolio of projects. It uses the card and flexbox features of bootstrap extensively to acheive its responsive display.
 
 ![image](https://user-images.githubusercontent.com/68998298/91248715-a35c4580-e798-11ea-9a8b-69e59e6c85f3.png)
 
