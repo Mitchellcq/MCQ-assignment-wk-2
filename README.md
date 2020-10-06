@@ -6,6 +6,8 @@ Assignment wk 2 by Mitchell Chee Quee
 
 A small, responsive, 3 page website designed by Mitchell Chee Quee.
 
+https://mitchellcq.github.io/Portfolio/
+
 ## Summary:
 
 ### About Me!
